@@ -1,12 +1,12 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Company: usafa
+-- Engineer: suh
 -- 
 -- Create Date:    00:51:10 01/23/2014 
--- Design Name: 
+-- Design Name:    first lab
 -- Module Name:    Lab1_Suh - Behavioral 
--- Project Name: 
--- Target Devices: 
+-- Project Name:   first lab
+-- Target Devices:  
 -- Tool versions: 
 -- Description: 
 --
@@ -40,8 +40,23 @@ end Lab1_Suh;
 
 architecture Behavioral of Lab1_Suh is
 
+signal NOT_A, NOT_B, NOT_C, D, E, F, G, H, I, J: STD_Logic;
+
 begin
 
+NOT_A <= not A;
+NOT_B <= not B;
+NOT_C <= not C;
+D <= NOT_A and B;
+E <= NOT_A and C;
+F <= NOT_B and NOT_C;
+J <= A and F;
+G <= NOT_B and C;
+H <= B and NOT_C;
+I <= C;
+X <= D or E or J;
+Y <= G or H;
+Z <= I;
 
 end Behavioral;
 
