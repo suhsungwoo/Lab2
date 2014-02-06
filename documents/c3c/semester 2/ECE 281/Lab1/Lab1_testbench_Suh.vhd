@@ -1,12 +1,12 @@
 --------------------------------------------------------------------------------
--- Company: 
--- Engineer:
+-- Company: USAFA
+-- Engineer: Suh
 --
 -- Create Date:   08:10:53 01/23/2014
 -- Design Name:   
 -- Module Name:   C:/Users/C16Sung.Suh/Documents/C3C/Semester 2/ECE 281/Lab1/Lab1_testbench_Suh.vhd
 -- Project Name:  Lab1
--- Target Device:  
+-- Target Device:  Awesome Machine
 -- Tool versions:  
 -- Description:   
 -- 
