@@ -1,12 +1,12 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Company: Suh
+-- Engineer: Suh
 -- 
 -- Create Date:    14:11:42 01/30/2014 
--- Design Name: 
+-- Design Name: Suh
 -- Module Name:    Decoder_Structural - Structural 
--- Project Name: 
--- Target Devices: 
+-- Project Name: Suh
+-- Target Devices: Suh
 -- Tool versions: 
 -- Description: 
 --
