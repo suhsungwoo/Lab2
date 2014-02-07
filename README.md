@@ -3,8 +3,8 @@ ECE281_CE2
 # C3C Sung Woo Suh
 
 # screenshot
-
 ![Capture](Capture.JPG)
+
 https://github.com/suhsungwoo/ECE281_CE2/tree/master/documents/c3c/semester%202/ECE%20281/CE2
 
 
