@@ -1,12 +1,12 @@
 ----------------------------------------------------------------------------------
--- Company: Suh
+-- Company: USAFA
 -- Engineer: Suh
 -- 
 -- Create Date:    14:11:42 01/30/2014 
--- Design Name: Suh
+-- Design Name: YES
 -- Module Name:    Decoder_Structural - Structural 
--- Project Name: Suh
--- Target Devices: Suh
+-- Project Name: ACED IT
+-- Target Devices: 
 -- Tool versions: 
 -- Description: 
 --
