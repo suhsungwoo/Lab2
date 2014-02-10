@@ -2,14 +2,16 @@ ECE281_Lab2
 ==========
 # C3C Sung Woo Suh
 
-# Truth Table
+# Truth Table and Schematic
 
-# Schematic
+![Schematics](Schematics.jpg)
 
 # VHDL
+https://github.com/suhsungwoo/Lab2/blob/master/Full_Adder.vhd
 
 # Test bench
+ https://github.com/suhsungwoo/Lab2/blob/master/Testbench.vhd
  
 # Test bench output
 
-![Behavioral](Behavioral.JPG)
+![Prelab_Screenshot](Prelab_Screenshot.JPG)
