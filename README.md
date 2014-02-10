@@ -11,3 +11,5 @@ ECE281_Lab2
 # Test bench
  
 # Test bench output
+
+![Behavioral](Behavioral.JPG)
