@@ -7,14 +7,14 @@ ECE281_Lab2
 ![Schematics](Schematics.jpg)
 
 ## VHDL
-https://github.com/suhsungwoo/Lab2/blob/master/Full_Adder.vhd
+https://github.com/suhsungwoo/Lab2/blob/master/full_adder.vhd
 
 ## Test bench
- https://github.com/suhsungwoo/Lab2/blob/master/Testbench.vhd
+ https://github.com/suhsungwoo/Lab2/blob/master/full_adder_tb.vhd
  
 ## Test bench output
 
-![Prelab_Screenshot](Prelab_Screenshot.JPG)
+![Prelab_Screenshot_1](Prelab_Screenshot_1.JPG)
 
 ## documentation:
-C3C Kiernan helped me with the K-map
+C3C Kiernan helped me with the K-map and in the test bench.
