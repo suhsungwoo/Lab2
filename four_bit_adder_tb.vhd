@@ -1,9 +1,9 @@
 --------------------------------------------------------------------------------
--- Company: 
--- Engineer:
+-- Company: usafa
+-- Engineer:Suh
 --
 -- Create Date:   14:18:48 02/14/2014
--- Design Name:   
+-- Design Name:   4 bit test bench
 -- Module Name:   C:/Users/C16Sung.Suh/Documents/C3C/Semester 2/ECE 281/Lab 2/four_bit_adder_tb.vhd
 -- Project Name:  Lab2
 -- Target Device:  
