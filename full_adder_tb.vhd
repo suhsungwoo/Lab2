@@ -83,58 +83,42 @@ BEGIN
 		B <= '0';
 		Ci <= '0';
 		wait for 100 ns;
-		assert S='0' report "Sum Fail" severity error;
-		assert Co='0' report "Carry Fail" severity error;
 
 		A <= '0';
 		B <= '0';
 		Ci <= '1';
 		wait for 100 ns;
-		assert S='1' report "Sum Fail" severity error;
-		assert Co='0' report "Carry Fail" severity error;
 
 		A <= '0';
 		B <= '1';
 		Ci <= '0';
 		wait for 100 ns;
-		assert S='1' report "Sum Fail" severity error;
-		assert Co='0' report "Carry Fail" severity error;
-
+		
 		A <= '0';
 		B <= '1';
 		Ci <= '1';
 		wait for 100 ns;
-		assert S='0' report "Sum Fail" severity error;
-		assert Co='1' report "Carry Fail" severity error;
-
+		
 		A <= '1';
 		B <= '0';
 		Ci <= '0';
 		wait for 100 ns;
-		assert S='1' report "Sum Fail" severity error;
-		assert Co='0' report "Carry Fail" severity error;
-
+		
 		A <= '1';
 		B <= '0';
 		Ci <= '1';
 		wait for 100 ns;
-		assert S='0' report "Sum Fail" severity error;
-		assert Co='1' report "Carry Fail" severity error;
-
+		
 		A <= '1';
 		B <= '1';
 		Ci <= '0';
 		wait for 100 ns;
-		assert S='0' report "Sum Fail" severity error;
-		assert Co='1' report "Carry Fail" severity error;
-
+		
 		A <= '1';
 		B <= '1';
 		Ci <= '1';
 		wait for 100 ns;
-		assert S='1' report "Sum Fail" severity error;
-		assert Co='1' report "Carry Fail" severity error;  
-  
+		
    end process;
 
 END;
