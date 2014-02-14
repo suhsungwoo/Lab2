@@ -14,7 +14,7 @@ https://github.com/suhsungwoo/Lab2/blob/master/full_adder.vhd
  
 ## Test bench output
 
-![Prelab_Screenshot_1](Prelab_Screenshot_1.JPG)
+![Prelab_Screenshot_2](Prelab_Screenshot_2.JPG)
 
 ## documentation:
 C3C Kiernan helped me with the K-map and in the test bench.
