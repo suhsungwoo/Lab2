@@ -28,6 +28,10 @@ https://github.com/suhsungwoo/Lab2/blob/master/four_bit_implementation.ucf
 ## 4 bit adder Testbench output
 ![four_bit_tb_screenshot](four_bit_tb_screenshot.JPG)
 
+## final circuit schematic with device labels
+![final_circuit_schematic](final_circuit_schematic.jpg)
+
+
 ## documentation:
-C3C Kiernan helped me with the K-map and in the test bench.
+C3C Kiernan helped me with the K-map and implementing carry in and carry out.
 
